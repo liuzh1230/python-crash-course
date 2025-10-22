@@ -1,0 +1,7 @@
+assertEqual(a,b)
+assertNotEqual(a,b)
+assertTrue(x)
+assertFalse(x)
+assertIn(item,list)
+assertNotIn(item,list)
+作用如字面意
